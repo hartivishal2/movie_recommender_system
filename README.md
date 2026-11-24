@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🎬 Movie Recommendation System
 
 📌 Overview
@@ -60,3 +61,5 @@ Click the recommendation button.
 View the top 5 recommended movies.
 
 Explore the movie posters displayed alongside the recommendations.
+=======
+
